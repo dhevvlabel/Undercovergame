@@ -1,0 +1,5 @@
+{
+  "name": "Undercover AI Host",
+  "description": "Host cerdas untuk permainan pesta Undercover. Mengelola peran, kata, dan alur permainan dengan pembuatan kata dan penilaian berbasis AI.",
+  "requestFramePermissions": []
+}
